@@ -1,0 +1,96 @@
+-----------------------------------------------------------------------
+Customer1: W
+Arrival time: 15:56:54
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Customer2: W
+Arrival time: 15:56:56
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Customer3: I
+Arrival time: 15:56:58
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Customer4: D
+Arrival time: 15:57:00
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Customer5: I
+Arrival time: 15:57:02
+-----------------------------------------------------------------------
+Teller: 1
+Customer: 2
+Arrival Time: 15:56:56
+Response Time: 15:57:04
+
+Teller: 1
+Customer: 2
+Arrival Time: 15:56:56
+Completion Time: 15:57:06
+
+Termination: Teller 1
+Served Customers: 1
+Start time: 15:57:04
+Termination Time: 15:57:06
+
+Teller: 0
+Customer: 1
+Arrival Time: 15:56:54
+Response Time: 15:57:04
+
+Teller: 0
+Customer: 1
+Arrival Time: 15:56:54
+Completion Time: 15:57:06
+
+Termination: Teller 0
+Served Customers: 1
+Start time: 15:57:04
+Termination Time: 15:57:06
+
+Teller: 3
+Customer: 4
+Arrival Time: 15:57:00
+Response Time: 15:57:04
+
+Teller: 3
+Customer: 4
+Arrival Time: 15:57:00
+Completion Time: 15:57:06
+
+Termination: Teller 3
+Served Customers: 1
+Start time: 15:57:04
+Termination Time: 15:57:06
+
+Teller: 2
+Customer: 3
+Arrival Time: 15:56:58
+Response Time: 15:57:04
+
+Teller: 2
+Customer: 3
+Arrival Time: 15:56:58
+Completion Time: 15:57:05
+
+Teller: 2
+Customer: 5
+Arrival Time: 15:57:02
+Response Time: 15:57:05
+
+Teller: 2
+Customer: 5
+Arrival Time: 15:57:02
+Completion Time: 15:57:06
+
+Termination: Teller 2
+Served Customers: 2
+Start time: 15:57:04
+Termination Time: 15:57:06
+
+Teller Statistic
+Teller-0 serves 1 customers.
+Teller-1 serves 1 customers.
+Teller-2 serves 2 customers.
+Teller-3 serves 1 customers.
+Total number of customers: 5 customers.
